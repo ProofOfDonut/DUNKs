@@ -9,7 +9,7 @@ Donut Improvement Proposals (donuts are dunked not dipped!) describe standards f
  4. Submit a Pull Request to ProofOfDonut's [DUNKs repository](https://github.com/ProofOfDonut/DUNKs).
 
 # DUNK Status Terms
-* **Dough** - a DUNK that is undergoing rapid iteration and changes
+* **Kneading** - a DUNK that is undergoing rapid iteration and changes
 * **Baked** - a DUNK that is done with its initial iteration and ready for review by a wide audience
 * **Frosted** - a core DUNK that has been in Last Call for at least 2 weeks and any technical changes that were requested have been addressed by the author
 * **Sprinkled** - a DUNK that has been in Last Call for at least 2 weeks and any technical changes that were requested have been addressed by the author.
