@@ -7,7 +7,7 @@ There have been experiments with this in /r/recdao and https://donut.dance, but 
 
 This DUNK aims to specify the core features we want the protocol to have, and subsequent DUNKS can address how exactly we might go about achieving them :)
 
-DOH Protocol Features
+DOH Protocol Goals
 - decentralized: no single point of failure or power
 - trustless: everything can be verified publically incase it breaks or someone cheats
 - fun: we're fancy monkeys that wear cloths and live on a spec of dust suspended in a sunbeam... let's not get carried away with ourselves here lol
